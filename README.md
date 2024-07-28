@@ -7,3 +7,6 @@ Welcome to the API reference guide for Amplify JS v6. Here you will find API ref
 
 Using this Website
 This website is organized by the packages and export paths that we expose in the library.
+
+API GATEWAY:
+using created api endpoint from awws api gateway to scripts.js file. 
